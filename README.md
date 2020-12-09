@@ -41,7 +41,7 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 
 [![Linkedin: Nikhil Patne](https://img.shields.io/badge/-nikhilpatne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
 <a href="https://instagram.com/nickpatne" target="_blank"><img src="https://img.shields.io/badge/@nickpatne-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Nikhil Patne](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
+[![Twitter: Nikhil Patne](https://img.shields.io/twitter/follow/NikhilPatne5?style=social)](https://twitter.com/NikhilPatne5)
 [![GitHub: Nikhil Patne](https://img.shields.io/github/followers/nikhilpatne?label=Follow&style=social)](https://github.com/nikhilpatne)
 
 
